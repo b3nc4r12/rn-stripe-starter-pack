@@ -8,7 +8,19 @@ I have made a starter pack to make things easier for you! This starter pack incl
 
 #### Quick Note: If you do not already have Yarn installed, you can install it [here](https://yarnpkg.com/getting-started/install). I am not sure if this starter pack will work with with npm.
 
-To get started with the starter pack, all you need to do is clone this repo using the following command:
+#### To get started with the starter pack, all you need to do is follow these steps:
+
+First, install the Expo CLI if you have not already. You may need to put **sudo** infront of the command if you are on Mac or Linux (or using WSL on windows):
+
+```bash
+# NPM
+npm i -g expo-cli
+
+# Yarn
+yarn global add expo-cli
+```
+
+Next, clone the repo:
 
 ```bash
 git clone https://github.com/b3nc4r12/rn-stripe-starter-pack.git
