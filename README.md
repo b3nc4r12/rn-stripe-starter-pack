@@ -26,4 +26,6 @@ And install the dependencies:
 yarn install
 ```
 
+It's that simple! You are now ready to start this demo!
+
 ![Stripe Demo](https://i.ibb.co/88BXcxJ/977-FAB9-E-47-F5-4-EB3-84-FF-9-F66-B63419-CD.png)
