@@ -6,7 +6,7 @@ Coaching Call by Ben Carter
 
 I have made a starter pack to make things easier for you! This starter pack includes Tailwind CSS installed (to make styling quicker as it is not the point of the coaching call), Environment Variables already set up so that they will be ready to use when we add Stripe, and some dummy products so that we have something to pay for.
 
-#### Quick Note: If you do not already have Yarn installed, you can install it [here](https://yarnpkg.com/getting-started/install). I am not sure if this starter pack will work with with npm.
+#### Quick Note: If you do not already have Git installed, you can install it [here](https://git-scm.com/downloads). You will need it to get started with this starter pack.
 
 #### To get started with the starter pack, all you need to do is follow these steps:
 
@@ -35,6 +35,10 @@ cd rn-stripe-starter-pack
 And install the dependencies:
 
 ```bash
+# NPM
+npm install
+
+# Yarn
 yarn install
 ```
 
