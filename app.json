@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "stripe-demo",
-    "slug": "stripe-demo",
+    "name": "rn-stripe-starter-pack",
+    "slug": "rn-stripe-starter-pack",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
