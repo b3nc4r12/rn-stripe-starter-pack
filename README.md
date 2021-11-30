@@ -18,6 +18,9 @@ npm i -g expo-cli
 
 # Yarn
 yarn global add expo-cli
+
+# PNPM
+pnpm i -g expo-cli
 ```
 
 Next, clone the repo:
@@ -40,6 +43,9 @@ npm install
 
 # Yarn
 yarn install
+
+# PNPM
+pnpm install
 ```
 
 It's that simple! You are now ready to start this demo!
